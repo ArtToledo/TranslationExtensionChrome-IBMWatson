@@ -1,4 +1,4 @@
-# <h1 align="center">SQProvas</h1>
+# <h1 align="center">Translation Extension</h1>
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge"/>
 </p>
@@ -9,8 +9,6 @@
 :small_blue_diamond: [Tecnologias](#books-tecnologias)  
 
 :small_blue_diamond: [Como rodar](#computer-como-rodar)
-
-:small_blue_diamond: [Desenvolvedor](#keyboard-desenvolvedor)
 
 ## Descrição do projeto 
 
@@ -41,6 +39,3 @@ chrome://extensions/
 Ative o modo desenvolvedor
 
 Após substituir os paramêtros no arquivo Script.js clique em "Carregar sem compactação" e selecione a pasta na qual você fez o git clone, a mesma deve conter o arquivo "manifest.json" e pronto, você poderá visualizar sua extensão ao lado da URL do seu navegador.
-
-## :keyboard: Desenvolvedor
-| [<img src="https://avatars1.githubusercontent.com/u/57795650?s=460&u=f58151d239d465a619cb432befb7e33ef173f5ef&v=4" width=115><br><sub>Arthur Toledo</sub>](https://github.com/ArtToledo) | :---: | :---: | :---: 
