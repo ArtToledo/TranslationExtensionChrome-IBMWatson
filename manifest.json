@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Translation Extension",
+  "description": "Extension to translate without changing tabs",
+  "author": "Arthur Toledo",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_title": "Translation Extension",
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
