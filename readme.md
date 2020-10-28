@@ -1,4 +1,5 @@
 # <h1 align="center">Translation Extension</h1>
+![feature](https://user-images.githubusercontent.com/57795650/97472997-35173900-1929-11eb-9576-70254b153e25.png)
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge"/>
 </p>
